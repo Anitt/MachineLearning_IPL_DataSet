@@ -46,6 +46,35 @@ Kaggle Link: https://www.kaggle.com/harsha547/indian-premier-league-csv-dataset/
 * `source env/bin/activate`
 
 
+# Screenshots
+
+### Streamgraph
+
+![alt text](https://github.com/Anitt/MachineLearning_IPL_DataSet/blob/master/images/StreamGraph.png "Stream Graph")
+
+### TreeMap
+
+![alt text](https://github.com/Anitt/MachineLearning_IPL_DataSet/blob/master/images/TreeMap.png "Tree Map")
+
+### Line Graph
+
+![alt text](https://github.com/Anitt/MachineLearning_IPL_DataSet/blob/master/images/LineGraph.jpg)
+
+### Stacked Bar Graph
+
+![alt text](https://github.com/Anitt/MachineLearning_IPL_DataSet/blob/master/images/StackedBarGraph.png)
+
+![alt text](https://github.com/Anitt/MachineLearning_IPL_DataSet/blob/master/images/StackedBarGraph2.png)
+
+### Clustering
+
+![alt text](https://github.com/Anitt/MachineLearning_IPL_DataSet/blob/master/images/clustering.PNG "Clustering")
+
+### Forced Layout
+
+![alt text](https://github.com/Anitt/MachineLearning_IPL_DataSet/blob/master/images/ForcedLayout.jpg "Forced Layout")
+
+
 ### 3) Start server
 
 * Install project dependencies with this line : `pip install -r requirements.txt`
